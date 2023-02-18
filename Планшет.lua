@@ -2,6 +2,7 @@ local comp = require('component')
 local modem = comp.modem
 local term = require("term")
 local event = require("event")
+--привет
 local computer = require('computer')
 local gpu = comp.gpu
  
